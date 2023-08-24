@@ -3,7 +3,9 @@ header {
 }
 
 .caixa {
+    position:relative;
     width: 940px;
+    margin: 0 auto;
 }
 
 
@@ -24,4 +26,15 @@ nav a {
      font-weight: bold;
      font-size: 22px;
      text-decoration: none;
+
+.produtos {
+   width: 940px;
+   margin: 0 auto;
+}
+
+
+}
+.produtos li {
+  display: inline-block;
+  text-align: center;
 }
