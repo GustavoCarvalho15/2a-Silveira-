@@ -6,6 +6,11 @@
 	background: #CCCCCC;
 	padding: 30px;
 }
+1x￼Playback Rate
+￼Open quality selector menu￼Picture-in-Picture
+￼Close Theater Mode
+￼Fullscreen
+
 
 .titulo-principal {
 	padding-left: 20px;
@@ -45,4 +50,14 @@ ul {
 
 .imagembeneficios {
 	width: 50%;
+}
+
+
+main {
+    width: 940px;
+		margin: 0 auto;
+}
+
+form {
+	margin: 40px 0;
 }

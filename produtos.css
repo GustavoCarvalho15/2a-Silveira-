@@ -37,6 +37,17 @@ nav a:hover {
 .produtos {
    width: 1200px;
    margin: auto;
+main {
+    width: 940px;
+		margin: 0 auto;
+}
+
+form {
+	margin: 40px 0;
+}
+
+
+form input:
 }
 
 .produtos li {
@@ -92,8 +103,6 @@ nav a:hover {
   margin-top: 10px;
 }
 
-
-
 footer {
    text-align: center;
    background: url("bg.jpg");
@@ -105,4 +114,35 @@ footer {
   color: #FFFFFF;
   font-size: 13px;
   margin: 20px 0 0;
+}
+main {
+  width: 940px;
+  margin: 0 auto;
+}
+
+form {
+  margin: 40px 0;
+}
+
+form label, form p {
+  display:block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+form input, form textarea {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+}
+
+.input-padrao {
+   display: block;
+   margin: 0 0 20px;
+   padding: 10px 25px;
+   width: 50%;
+}
+.checkbox {
+    margin: 20px 0;
 }
